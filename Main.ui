@@ -47,7 +47,7 @@
      <rect>
       <x>70</x>
       <y>10</y>
-      <width>401</width>
+      <width>341</width>
       <height>21</height>
      </rect>
     </property>
@@ -80,7 +80,7 @@
    <widget class="QPushButton" name="determine">
     <property name="geometry">
      <rect>
-      <x>480</x>
+      <x>420</x>
       <y>10</y>
       <width>75</width>
       <height>23</height>
@@ -113,6 +113,25 @@
     </property>
     <property name="openLinks">
      <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Clean">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>10</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Clean</string>
     </property>
    </widget>
   </widget>
